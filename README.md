@@ -1,4 +1,5 @@
-# PRODIGY_ML_03
+#Cats and Dogs Classifier Using Support Vector Machines (SVM)
+
 Project: Cats and Dogs Classifier Using Support Vector Machines (SVM)
 
 In this project, we aim to build an image classification model using Support Vector Machines (SVM) to distinguish between images of cats and dogs. The dataset is sourced from Kaggle, and our goal is to create a robust model capable of accurately classifying these two animal groups.
