@@ -1,4 +1,4 @@
-#Cats and Dogs Classifier Using Support Vector Machines (SVM)
+## Cats and Dogs Classifier Using Support Vector Machines (SVM)
 
 Project: Cats and Dogs Classifier Using Support Vector Machines (SVM)
 
